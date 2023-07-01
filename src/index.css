@@ -513,6 +513,10 @@ Navbar
 .show-links {
   height: 280px;
 }
+.nav-logo{
+  width: 400px;
+  height: 120 px;
+}
 /* nav at bigger screen size */
 @media screen and (min-width: 992px) {
   /* hide nav toggle button */
@@ -558,4 +562,5 @@ Navbar
   .nav-icon:hover {
     color: var(--clr-primary-8);
   }
+  
 }
